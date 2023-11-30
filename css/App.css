@@ -92,6 +92,10 @@ projectImage {
   display: flex;
   font-size: x-small;
 }
+#test{
+  
+font-size:18px;
+}
 input {
   margin-top: 10px;
   margin-bottom: 10px;

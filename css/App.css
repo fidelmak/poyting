@@ -127,7 +127,10 @@ textarea {
   }
   .nav{
     font-size:10px;
-width: 600px;
+width: auto;
 
+  }
+  .app{
+    margin:10px;
   }
 }

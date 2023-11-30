@@ -136,12 +136,16 @@ width: auto;
   .app{
     margin:10px;
   }
+  projectImage{
+    display:grid;
+  }
   . project {
     width:100px;
     height:100px;
     font-size:12px;
   }
   . display{
+    display:grid;
     width:100px;
     height:100px;
   }

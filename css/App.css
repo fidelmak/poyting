@@ -125,4 +125,7 @@ textarea {
     height: auto;
     color: white;
   }
+  .nav{
+    font-size:16px;
+  }
 }

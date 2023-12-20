@@ -116,7 +116,7 @@ textarea {
   font-size: 50px;
 }
 .About{
-  height: 100px;
+  height: max-content;
   font-size: 25px;
   text-align: center;
   width: 100px;

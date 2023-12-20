@@ -116,10 +116,10 @@ textarea {
   font-size: 50px;
 }
 .About{
-  height: max-content;
+  height: fit-content;
   font-size: 25px;
   text-align: center;
-  width: 200px;
+  
   
 
 }

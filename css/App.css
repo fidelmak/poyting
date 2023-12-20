@@ -172,14 +172,21 @@ width: auto;
   projectImage{
     display:grid;
   }
-  . project {
+  .project {
     width:100px;
     height:100px;
     font-size:12px;
   }
-  . display{
+  .display{
     display:grid;
     width:100px;
     height:100px;
   }
+}
+.footer{
+  color: grey;
+  margin-top: 20px;
+  font-size: 20px;
+  font-style: oblique;
+  
 }

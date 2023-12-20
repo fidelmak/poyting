@@ -118,7 +118,9 @@ textarea {
 .About{
   height: fit-content;
   font-size: 25px;
+  text-align: center;
   
+
 }
 
 @media (max-width: 768px) {

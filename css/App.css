@@ -143,6 +143,20 @@ textarea {
     height: auto;
     color: white;
   }
+  .About{
+    height: fit-content;
+    font-size: 0px;
+    text-align: center;
+    width: fit-content;
+    padding: 50px;
+    border: 5px;
+    margin: 30px;
+    border-style: groove;
+    border-color: magenta;
+    
+    
+  
+  }
   .nav{
     font-size:10px;
 width: auto;

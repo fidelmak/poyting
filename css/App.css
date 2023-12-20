@@ -117,14 +117,13 @@ textarea {
 }
 .About{
   height: fit-content;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   width: fit-content;
-  padding: 50px;
-  border: 20px;
-  margin: 30px;
-  border-style: groove;
-  border-color: aqua;
+  padding: 90px;
+  
+  margin: 40px;
+  
   
   
 

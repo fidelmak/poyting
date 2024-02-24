@@ -14,7 +14,7 @@ function type() {
 type();
 
 const qutes =[
-    '{
+    {
       title: "1. Lead Up: Lead Yourself",
       summary: "Chapter 1 focuses on the critical aspect of self-leadership. Maxwell argues that effective leadership begins with personal development and discipline. Leaders must take responsibility for their growth, set high standards, and demonstrate a commitment to continuous learning. By leading oneself effectively, leaders establish a strong foundation for influencing others.",
     },
@@ -50,7 +50,7 @@ const qutes =[
 
 
 
-const quote = [
+const quotes = [
   "The only way to do great work is to love what you do. - Steve Jobs",
   "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
   "The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela",
@@ -74,7 +74,7 @@ const quote = [
 ];
   
 
-  const quotes=[
+  const quots=[
 
   "function addTwoNumbers(a, b) { return a + b; }",
 

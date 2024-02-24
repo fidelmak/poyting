@@ -13,7 +13,7 @@ function type() {
 // Call the type() function to display the text
 type();
 
-const quote = [
+const quotes = [
   "The only way to do great work is to love what you do. - Steve Jobs",
   "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
   "The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela",

@@ -13,6 +13,43 @@ function type() {
 // Call the type() function to display the text
 type();
 
+const quotes =[
+    {
+      title: "1. Lead Up: Lead Yourself",
+      summary: "Chapter 1 focuses on the critical aspect of self-leadership. Maxwell argues that effective leadership begins with personal development and discipline. Leaders must take responsibility for their growth, set high standards, and demonstrate a commitment to continuous learning. By leading oneself effectively, leaders establish a strong foundation for influencing others.",
+    },
+    {
+      title: "2. Lead Down: Be a Good Team Player",
+      summary: "Leading those under you involves building strong relationships and fostering a positive team culture. Chapter 2 explores the importance of collaboration, support, and creating an environment where team members feel valued and empowered. Maxwell emphasizes that leadership is not about authority but about serving and lifting others up.",
+    },
+    {
+      title: "3. Lead Across: Expand Your Influence",
+      summary: "To lead peers effectively, leaders must embrace diversity, collaborate, and solve problems resourcefully. Chapter 3 delves into the dynamics of influencing colleagues positively and maintaining a constructive impact across the organization. It explores strategies for building trust and credibility in a lateral leadership role.",
+    },
+    {
+      title: "4. Lead Across: Work with Those Over You",
+      summary: "Building positive relationships with superiors is crucial for effective leadership. Chapter 4 discusses the dynamics of leading when accountable to those above you. Maxwell provides insights into managing expectations, solving problems proactively, and demonstrating reliability to earn the trust of superiors.",
+    },
+    {
+      title: "5. Lead Across: Influence Up",
+      summary: "Chapter 5 explores the art of influencing those in higher positions. Leaders can expand their impact by consistently demonstrating competence, being solution-oriented, and adding value to the organization. Maxwell provides practical strategies for gaining the trust and respect of superiors.",
+    },
+    {
+      title: "6. Lead Across: Lead Across Organizationally",
+      summary: "This chapter explores how leaders can extend their influence organization-wide. Chapter 6 emphasizes aligning personal goals with organizational objectives, understanding the broader context of leadership, and contributing to the overall success of the organization.",
+    },
+    {
+      title: "7. Lead Across: Be a Leader Developing Leaders",
+      summary: "Creating a leadership culture involves mentoring others and actively participating in leadership development. Chapter 7 discusses the significance of leaders fostering the growth of those around them, leaving a lasting legacy within the organization.",
+    },
+    {
+      title: "Conclusion",
+      summary: "In the conclusion, Maxwell reinforces the idea that a 360-degree leader plays a vital role in organizational success. Such leaders impact all levels of the organization, creating a positive and influential leadership culture that resonates throughout the entire workplace.",
+    },
+  ],
+
+
+
 const quote = [
   "The only way to do great work is to love what you do. - Steve Jobs",
   "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
@@ -37,7 +74,7 @@ const quote = [
 ];
   
 
-  const quotes=[
+  const quots=[
 
   "function addTwoNumbers(a, b) { return a + b; }",
 

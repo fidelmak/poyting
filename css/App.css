@@ -129,6 +129,15 @@ textarea {
   
 
 }
+#quote {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+        #generate {
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+  }
 
 @media (max-width: 768px) {
   .display {

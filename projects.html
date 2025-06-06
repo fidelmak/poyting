@@ -68,6 +68,78 @@ git status </p>
 <hr /> 
 
 <b> how to use readme file </b> 
+          <br>
+          
+          <center>
+            <h1>Using Django in the terminal</h1>
+            <div>
+              <div class="container">
+        <h1>Django Management Commands</h1>
+        
+        <div class="commands-box" id="commandsBox">
+            <div class="command">
+                <span class="comment"># Navigate to your project directory (if needed)</span><br>
+                <span class="command-text">cd your_project_name</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Create migration files for model changes</span><br>
+                <span class="command-text">python manage.py makemigrations</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Apply migrations to the database</span><br>
+                <span class="command-text">python manage.py migrate</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Create a superuser (if you need admin access)</span><br>
+                <span class="command-text">python manage.py createsuperuser</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Collect static files (for production)</span><br>
+                <span class="command-text">python manage.py collectstatic</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Run the development server</span><br>
+                <span class="command-text">python manage.py runserver</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Check for any issues with your project</span><br>
+                <span class="command-text">python manage.py check</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Open Django shell for testing</span><br>
+                <span class="command-text">python manage.py shell</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># View current migration status</span><br>
+                <span class="command-text">python manage.py showmigrations</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Reset migrations for a specific app (use carefully)</span><br>
+                <span class="command-text">python manage.py migrate your_app_name zero</span>
+            </div>
+            
+            <div class="command">
+                <span class="comment"># Apply specific migration</span><br>
+                <span class="command-text">python manage.py migrate your_app_name 0001</span>
+            </div>
+        </div>
+        
+        <button class="copy-btn" onclick="copyCommands()">📋 Copy All Commands</button>
+    </div>
+    
+  
+            </div>
+            
+          </center>
 <br / > 
 <a> https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/ <a/> 
         
